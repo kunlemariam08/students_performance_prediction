@@ -114,6 +114,17 @@ dtypes: float64(3), int64(12)
 
 ---
 
+# Document the API clearly, showing:
+
+# The expected input and output format (e.g., JSON)
+
+# A sample request/response
+
+# Any libraries or tools used
+
+# A brief guide for how a Laravel backend developer might call and use your endpoint ##
+
+
 ## 🤖 Model Training
 
 File: train\_model.py
